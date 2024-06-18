@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "explRL"
+  site-url: "https://ChuntaoDan.github.io/explRL"
+  description: "A repo for brain-inspired AI agents that explore novel environments and map their value landscapes"
+  repo-branch: main
+  repo-url: "https://github.com/ChuntaoDan/explRL"
