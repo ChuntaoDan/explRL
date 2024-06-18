@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://ChuntaoDan.github.io',
                 'git_url': 'https://github.com/ChuntaoDan/explRL',
                 'lib_path': 'explRL'},
-  'syms': {'explRL.core': {'explRL.core.foo': ('core.html#foo', 'explRL/core.py')}}}
+  'syms': { 'explRL.core': { 'explRL.core.loadAgent': ('core.html#loadagent', 'explRL/core.py'),
+                             'explRL.core.loadEnv': ('core.html#loadenv', 'explRL/core.py')}}}
