@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "explRL",
+    "section": "",
+    "text": "pip install explRL",
+    "crumbs": [
+      "explRL"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "explRL",
+    "section": "",
+    "text": "pip install explRL",
+    "crumbs": [
+      "explRL"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "explRL",
+    "section": "How to use",
+    "text": "How to use\nInstall the package as described above. The core.py script is used to interact with the package from the command line. Depending on the input flags for the agent and the environment, the script loads a graphic environment and an agent that explores in it.\nFor example:",
+    "crumbs": [
+      "explRL"
+    ]
+  },
+  {
+    "objectID": "envs.html",
+    "href": "envs.html",
+    "title": "envs",
+    "section": "",
+    "text": "source\n\nWorld\n\n World ()\n\nInitialize self. See help(type(self)) for accurate signature.",
+    "crumbs": [
+      "envs"
+    ]
+  },
+  {
+    "objectID": "agents.html",
+    "href": "agents.html",
+    "title": "agents",
+    "section": "",
+    "text": "source\n\nPolicy\n\n Policy ()\n\nThis Policy Class specifies a general architecture.\n\nsource\n\n\nflexiblePolicy\n\n flexiblePolicy ()\n\nThis flexiblePolicy Class specifies a fully flexible policy with a set of basis functions and a learnable set of weights.\n\nsource\n\n\nRL\n\n RL (policy)\n\nThis RL Class performs reinforcement learning: after taking an action, update parameters based on feedback from the environment.\n\nsource\n\n\nAgent\n\n Agent (theta, goal, policy, rl, params)\n\nThis Class specifies agents with a defined policy and reinforcement learning algorithm.\n\nsource\n\n\nflexibleAgent\n\n flexibleAgent ()\n\nThis Agent Class specifies agents using a fully flexible policy and reinforcement learning algorithm.",
+    "crumbs": [
+      "agents"
+    ]
+  },
+  {
+    "objectID": "train.html",
+    "href": "train.html",
+    "title": "train",
+    "section": "",
+    "text": "source\n\nloadAgent\n\n loadAgent ()\n\nThis function loads an agent object from a specified Agent Class.\n\nsource\n\n\nloadEnv\n\n loadEnv ()\n\nThis function loads an env object from a specified Environment Class.",
+    "crumbs": [
+      "train"
+    ]
+  },
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\nloadAgent\n\n loadAgent ()\n\nThis function loads an agent object from a specified Agent Class.\n\nsource\n\n\nloadEnv\n\n loadEnv ()\n\nThis function loads an env object from a specified Environment Class.",
+    "crumbs": [
+      "core"
+    ]
+  }
+]
